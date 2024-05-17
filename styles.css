@@ -1,3 +1,12 @@
+@media (max-width: 1500px) {
+    .nav-brand img {
+        width: 12vw!important;
+    }
+    .nav-brand {
+        margin-left: 44vw!important;
+    }
+}
+
 body {
     text-align: center;
 }
@@ -12,4 +21,54 @@ h3 {
 
 #pidgeon {
     #
+}
+
+#history {
+    background-color: #001200;
+    color: #faebd7;
+}
+
+.navbar {
+
+}
+
+.nav-brand {
+    position: absolute;
+    margin-left: 42.5vw;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.nav-brand img {
+    width: 15vw;
+}
+
+.navbar {
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.hwk {
+    margin-top: 5vh;
+}
+
+.main-content h3 {
+    margin-top: 4vh;
+}
+
+.main-content p {
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.footer {
+    margin-bottom: 2vh;
+}
+
+.pos-rel {
+    position: relative;
 }
